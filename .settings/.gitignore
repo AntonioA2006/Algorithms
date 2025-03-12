@@ -1,0 +1,17 @@
+
+
+# Ignorar archivos de configuración de Eclipse
+.project
+.classpath
+.settings/
+
+# Ignorar directorios de Maven
+target/
+
+# Ignorar directorios de Gradle
+build/
+
+# Ignorar archivos generados
+*.log
+*.tmp
+
